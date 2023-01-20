@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aris Eleftheriadis
 - 👀 I’m interested in writing Business Software Programs
-- 🌱 I’m currently writing in C# .NET,Angular 2, Javascript and SQL
+- 🌱 I’m currently writing in C# .NET,Angular 2, Typescript, Javascript and SQL
 - 📫 How to reach me: a.eleftheriadis1@outlook.com
 
 <!---
