@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @elefA
+- 👋 Hi, I’m Aris Eleftheriadis
 - 👀 I’m interested in writing Business Software Programs
-- 🌱 I’m currently learning C#,Angular
-- 💞️ I’m looking for you
+- 🌱 I’m currently writing in C# .NET,Angular 2, Javascript
 - 📫 How to reach me: a.eleftheriadis1@outlook.com
 
 <!---
